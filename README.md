@@ -1,2 +1,2 @@
-# ecommerce-app_ASP.NET_Core
-E-Commercing Web Application supported with ASP.NET Core Features.
+# eCommerce_Book_ASP.NET_Core_MVC
+ This is my eCommercing project for completing the ASP.NET Core MVC Course. Fully Functional and ready to use. Hope you enjoy it!
